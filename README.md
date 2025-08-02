@@ -72,7 +72,3 @@ Full-stack web developer with a passion for learning and exploring new technolog
 </div>
 
 ---
-
-<div align='center'>
-    <img src="https://komarev.com/ghpv/?username=Angel-Eduardo-Renteria-Meza&style=for-the-badge&color=blue" alt="Profile views" />
-</div>
